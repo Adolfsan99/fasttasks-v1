@@ -1,0 +1,28 @@
+*{
+transition: 700ms;
+}
+.header { color: rgb(255, 255, 255); font-family: cursive; min-width: 29%; height: 3em; border-radius: 25px; text-align: center; margin: auto; }
+.background { background-color: rgb(37, 37, 37); }
+.item { color: rgb(255, 255, 255); font-family: cursive; }
+.tittle { background-color: yellow; width: 500px; height: 100px; }
+.addTask {background-color: rgb(245, 245, 245);width: 80%;height: 32px;border-radius: 20px;border: none;padding-left: 20px;}
+.addBtn {background-color: greenyellow;font-family: cursive;font-weight: 500;font-size: 14px;min-width: 10%;height: 40px;border-radius: 20px;border: none;margin-top: 10px;}
+
+.listtasks {background-color: rgb(37, 37, 37);width: 100%;margin-top: 110px;}
+
+@media (max-width: 477px ) {
+    .listtasks {margin-top: 200px;}
+}
+
+@media (max-width: 261px ) {
+    .listtasks {margin-top: 280px;}
+}
+
+.checked { color: white; font-family: cursive; width: 93%; height: 10%; text-decoration: line-through 15px rgba(255, 255, 0, 0.25); }
+.editTask, .delTask {
+    background-color: transparent;
+    border-radius: 10px;
+}
+.editTask:hover, .delTask:hover {
+    cursor: pointer;
+}
