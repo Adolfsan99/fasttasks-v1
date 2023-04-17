@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <!-- Configuracion por defecto del navegador -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Titulo de la pestaña -->
+    <title>Lista de tareas</title>
+
+    <!-- Estilos de la lista de tareas  -->
+    <link rel="stylesheet" href="./css/styles.css">
+
+</head>
+
+<body class="background">
+    
+    <div class="header">
+
+        <h2 class="title">📝 Fast Tasks - Lista de tareas</h2>
+        <p>Desarrollado por Adolfo Sánchez Lopéz</p>
+        <form id="addTask">
+            <input class="addTask" type="text" id="descripcion" name="descripcion" placeholder="Añade una tarea...">
+            <button class="addBtn" type="submit">Agregar</button>
+        </form>
+
+
+
+    </div>
+    
+    <ul class="listtasks" id="tasks"></ul>
+
+    <script src="./js/fetch-cargar-tareas.js" defer></script>
+    <script src="./js/fetch-agragar-tarea.js"></script>
+
+</body>
+
+</html>
