@@ -7,6 +7,8 @@
 
 ## v2
 
+### Mejoras a realizar con respecto a la version 1 (v1)
+
 * Que se puedan marcar o tachar las actividades
 * Para la version 2 (v2) se busca tener más listas como por ejemplo "Notas", "Objetivos" etc...
 * Que en vez de usarse mediante backed requiera localStorage para que su uso sea mas practico
