@@ -8,7 +8,7 @@ Un ejercicio de conocimientos Full-Stack donde se vincula front-end con el back-
 
 ## v2
 
-### Mejoras a realizar con respecto a la version 1 (v1)
+### Futuras mejoras
 
 * Que se puedan marcar o tachar las actividades
 * Para la version 2 (v2) se busca tener más listas como por ejemplo "Notas", "Objetivos" etc...
