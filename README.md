@@ -1,6 +1,7 @@
 # Lista de tareas - 📝fasttasks v1
-## Un ejercicio de conocimientos Full-Stack donde se vincula front-end con el back-end
+Un ejercicio de conocimientos Full-Stack donde se vincula front-end con el back-end
 
+## ¿Como visualizar este proyecto?
 * Importar la base de datos DB_fasttasks en XAMPP
 * Abrir el proyecto con InteliJ Idea y ejecutarlo (reiniciar maven por si acaso)
 * Abrir index.html en Visual Studio Code
