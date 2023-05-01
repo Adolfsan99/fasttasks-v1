@@ -1,4 +1,4 @@
-# Lista de tareas - fast list
+# Lista de tareas - 📝fasttasks
 ## Un ejercicio de conocimiento full-stack donde se vincula front-end con el back-end
 
 * Importar la base de datos DB_fasttasks en XAMPP
